@@ -3,6 +3,7 @@
 
 A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This project focuses on responsive design, intuitive UI, dynamic score tracking, and smooth game logic.
 <br>
+<br>
 📌 Features<br>
 <br>
 🎯 Interactive gameplay with visual feedback
@@ -15,6 +16,7 @@ A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and Jav
 <br>
 🎨 Clean and modern UI using CSS
 <br>
+<br>
 🛠️ Technologies Used<br>
 <br>
 HTML5 – Markup for game structure
@@ -22,6 +24,7 @@ HTML5 – Markup for game structure
 CSS3 – Styling and responsive layout
 <br>
 JavaScript (ES6) – Core game logic and DOM manipulation
+<br>
 <br>
 💡 Future Enhancements<br>
 <br>
