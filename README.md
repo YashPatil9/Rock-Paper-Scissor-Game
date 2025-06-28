@@ -34,6 +34,7 @@ Display match history or rounds
 <br>
 Add difficulty levels or AI logic
 <br>
-Theme switch (light/dark mode)
-🙌 Acknowledgments
+Theme switch (light/dark mode)<br>
+<br>
+🙌 Acknowledgments<br>
 Thanks to all the online tutorials and communities that inspired this simple but fun project.
